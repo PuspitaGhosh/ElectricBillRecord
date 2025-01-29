@@ -1,5 +1,5 @@
 package bean;
-
+//pojo class java
 public class Elec {
 	private int conId;
 	private String conName;
